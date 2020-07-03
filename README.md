@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a Javascript developer from Hyderabad,INDIA. At present I work as Fullstack Remote JavaScript Developer at @chatleap
+
+### 🔭  I’m currently focusing on ...
+
+- Web Performance
+- Web Security
+- Serverless Edge
+
+### 🌱 I’m currently learning ...
+
+- Rust
+
+### 📫 How to reach me
+
+- <a href="https://twitter.com/vinaypuppal" target="_blank">Twitter</a>
+- <a href="https://www.linkedin.com/in/vinay-puppal-4514b7104" target="_blank">Linkedin</a>
+- Email : <a href="mailto:hello@vinaypuppal.com" target="_blank">hello@vinaypuppal.com</a>
 
 <!--
 **vinaypuppal/vinaypuppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
