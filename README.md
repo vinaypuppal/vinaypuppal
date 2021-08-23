@@ -11,6 +11,7 @@ I am a Javascript developer from Hyderabad,INDIA. At present I work as Fullstack
 ### 🌱 I’m currently learning ...
 
 - Rust
+- Svelte.js
 
 ### 📫 How to reach me
 
