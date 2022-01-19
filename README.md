@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Javascript developer from Hyderabad,INDIA. At present I work as Fullstack Remote JavaScript Developer at [@rapidsec-com](https://github.com/rapidsec-com)
+I am a Javascript developer from Hyderabad,INDIA. At present I work as Software Engineer at [@orcasecurity](https://github.com/orcasecurity)
 
 ### 🔭  I’m currently focusing on ...
 
@@ -11,7 +11,6 @@ I am a Javascript developer from Hyderabad,INDIA. At present I work as Fullstack
 ### 🌱 I’m currently learning ...
 
 - Rust
-- Svelte.js
 
 ### 📫 How to reach me
 
