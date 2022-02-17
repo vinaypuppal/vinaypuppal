@@ -10,6 +10,7 @@ I am a Javascript developer from Hyderabad,INDIA. At present I work as Software 
 
 ### 🌱 I’m currently learning ...
 
+- Python | Django
 - Rust
 
 ### 📫 How to reach me
