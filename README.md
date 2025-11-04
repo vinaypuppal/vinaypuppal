@@ -4,14 +4,9 @@ I am a Javascript developer from Hyderabad,INDIA.
 
 ### 🔭  I’m currently focusing on ...
 
-- Web Performance
-- Web Security
+- AI Agents
+- Voice AI
 - Serverless Edge
-
-### 🌱 I’m currently learning ...
-
-- Python | Django
-- Rust
 
 ### 📫 How to reach me
 
